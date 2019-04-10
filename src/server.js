@@ -33,5 +33,5 @@ app.use('/files', express.static(path.resolve(__dirname, '..', 'tmp')));
 
 app.use(require('./routes')); //utiliza o arquivos de rotas.
 
-server.listen(3333); //define a porta.
+server.listen(process.env.PORT || 3333); //define a porta.
 
