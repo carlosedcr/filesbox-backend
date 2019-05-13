@@ -14,14 +14,18 @@ Express;
 
 Mongoose;
 
+Multer;
+
+Socket.io para realtime;
+
 API utiliza banco de dados NOSQL(mongodb):
 
 Utiliza banco de dados online (mogodb Atlas);
 
-Pasta config: arquivos de configuração;
+Pasta src/config: arquivos de configuração;
 
-Pasta models: abstração das tabelas do banco de dados em formato js.
+Pasta src/models: abstração das tabelas do banco de dados em formato js.
 
-Pasta controllers: regras de negócio, recebem as requisições das rotas.
+Pasta src/controllers: regras de negócio, recebem as requisições das rotas.
 
 
