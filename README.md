@@ -1,6 +1,6 @@
 RESUMO SOBRE A UTILIZAÇÃO DA API:
 
-API(EXEMPLO) foi criada para ser o backend de um site estilo dropbox;
+API foi criada para ser o backend de um site estilo dropbox;
 
 Pode ser acessado em: https://carlos-omnistack-frontend.herokuapp.com/
 
